@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaimisA
 - 👀 I’m interested in computer science in general
-- I have bachelor's in Mechanical Engineering and Robotics
+- I have bachelor's degree in Mechanical Engineering and Robotics
 - 🌱 I’m currently learning C#
 
 <!---
